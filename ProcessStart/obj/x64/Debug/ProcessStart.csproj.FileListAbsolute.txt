@@ -1,0 +1,8 @@
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\bin\x64\Debug\ProcessStart.exe.config
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\bin\x64\Debug\ProcessStart.exe
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\bin\x64\Debug\ProcessStart.pdb
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\obj\x64\Debug\ProcessStart.csproj.AssemblyReference.cache
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\obj\x64\Debug\ProcessStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\obj\x64\Debug\ProcessStart.csproj.CoreCompileInputs.cache
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\obj\x64\Debug\ProcessStart.exe
+C:\Users\nakaya39\source\repos\ProcessStart\ProcessStart\obj\x64\Debug\ProcessStart.pdb
